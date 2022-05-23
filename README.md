@@ -1,3 +1,4 @@
+- That's a github template, don't laugh!!!
 - 👋 Hi, I’m @DullishBird
 - 👀 I’m interested in games, space, music and programming.
 - 🌱 I’m currently learning C# (ASP.NET), learnt Python.
